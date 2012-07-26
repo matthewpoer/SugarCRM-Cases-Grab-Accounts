@@ -11,7 +11,7 @@ $manifest = array(
     'name' => 'New Cases get Accounts',
     'published_date' => '2012-07-26 02:23:25',
     'type' => 'module',
-    'version' => '1.0RC1',
+    'version' => '1.0',
 );
 $installdefs = array(
     'id' => 'NewCasesAccounts',
