@@ -9,9 +9,9 @@ $manifest = array(
     'icon' => '',
     'is_uninstallable' => true,
     'name' => 'New Cases get Accounts',
-    'published_date' => '2012-07-26 02:23:25',
+    'published_date' => '2012-07-27 010:23:25',
     'type' => 'module',
-    'version' => '1.0',
+    'version' => '1.0a',
 );
 $installdefs = array(
     'id' => 'NewCasesAccounts',
